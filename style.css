@@ -866,7 +866,7 @@ color: rgba(255,255,255,0.8);
     scrollbar-width: none;
     background: #A07D47;
     background-image: -webkit-gradient(linear, right bottom, left top, from(#A07D47), to(#0f2454));
-    background-image: linear-gradient(to bottom, #A07D47, #0f2454);
+   /* background-image: linear-gradient(to bottom, #A07D47, #0f2454);*/
 }
 @media screen and (max-width: 1200px) {
     #travolmenu-aside {
